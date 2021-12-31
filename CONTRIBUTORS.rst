@@ -34,3 +34,4 @@ Please keep this list sorted alphabetically by first name.
 - Trevor Bekolay <tbekolay@gmail.com>
 - Xuan Choo <fxchoo@gmail.com>
 - Ziying Zhang <zy8zhang@uwaterloo.ca>
+-Ansh Middha <ecodocsuperbeat@gmail.com>
